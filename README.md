@@ -18,4 +18,4 @@ I've also written some more unique things:
 
 You can contact me using keddad@yandex.ru
 
-PGP: [key.pgp]()
+PGP: [key.pgp](key.pgp)
