@@ -6,7 +6,7 @@ I'm a CS student from Russia who writes stuff time to time. Most of the projects
 
 * [tgspellchecker](https://github.com/keddad/tgspellchecker) is, surprisingly, a spellchecker for Telegram. Written in JS, because I wanted to try JS, uses APIs from Yandex.
 
-* [surveybot](https://github.com/keddad/surveybot) is a Telegram bot, for, well, surveys. Written in Python, very simple, supports export to .csv file and can process Audio/Video messages with some voice recognition.
+* [thevyshka-reporter](https://github.com/keddad/thevyshka-reporter) is a Telegram bot for feedback. It is simular to bots Livegram generates.
 
 I've also written some more unique things:
 
