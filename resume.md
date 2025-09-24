@@ -3,13 +3,19 @@
 * keddad@yandex.ru
 * [github.com/keddad](https://github.com/keddad)
 * Telegram: [@keddad](https://t.me/keddad)
+* [neversleeps.moscow](https://neversleeps.moscow)
 
 ## Образование
 * Высшая Школа Экономики, ФКН, Программная инженерия `2025
 
 ## Работа
+### ВКонтакте, Разработчик
+* 2025 - Текущее время
+* Разработка микросервисов на Go
+* Перевод монолита на PHP на микросервисную архитектуру
+
 ### АО "Лаборатория Касперского", Software Engineer
-* 2022 - Текущее время
+* 2022 - 2025
 * Разработка правил и тулчейнов для воспроизводимых сборок C/C++, .NET.
 *   Перевод Монорепозитория на сборку через Bazel (с CMake/MSBuild/etc).
     Перевод на централизированную сборку Bazel срезал технический долг, связанный с поддержкой систем сборки.
@@ -20,9 +26,9 @@
 
 
 ## Навыки
-* Python (FastAPI/SQLAlchemy/Flask/Scrapy)
-* C#/.NET
 * Go
-* SQL/NoSQL (Postgres/MongoDB/Redis/Influx), Git, Docker/Docker Compose, Linux
+* C#/.NET, Python
+* SQL/NoSQL (Postgres/MongoDB/Redis/Influx)
+* Git, Docker/Docker Compose, Linux, K8, Helm
 * CMake/Bazel/MSBuild
 
